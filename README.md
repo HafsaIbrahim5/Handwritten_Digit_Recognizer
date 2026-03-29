@@ -12,7 +12,7 @@ A **professional interactive web app** for handwritten digit recognition using a
 
 Based on the famous Kaggle notebook: *"Introduction to CNN Keras — 0.997 accuracy (Top 8%)"*
 
-[🚀 Live Demo](#) · [📓 Original Notebook](https://www.kaggle.com/code/yassineghouzam/introduction-to-cnn-keras-0-997-top-6/notebook)
+[📓 Original Notebook](https://www.kaggle.com/code/yassineghouzam/introduction-to-cnn-keras-0-997-top-6/notebook)
 
 </div>
 
